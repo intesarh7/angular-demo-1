@@ -48,9 +48,6 @@ const appRoutes:Routes =[
       component: NotFoundComponent
     }
 ]
-
-
-
 @NgModule({
   declarations: [
     AppComponent,
