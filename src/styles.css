@@ -20,7 +20,6 @@ html {
 .nauha-section {
     padding: 20px 0;
 }
-
 .carousel-item {
     height: 100vh;
     min-height: 300px;
@@ -274,7 +273,7 @@ body.okayNav-loaded {
     -webkit-transform: rotate(90deg);
     transform: rotate(90deg);
 }
- 
+
 html {
     line-height: 1.15;
     -ms-text-size-adjust: 100%;
@@ -2419,7 +2418,7 @@ label {
     background-color: transparent;
 }
 
- 
+
 
 @media (min-width: 768px) {
     .lang-menu .dropdown-menu .flag-icon {
@@ -2469,10 +2468,10 @@ label {
         font-weight: bold;
         color: #2a3744;
     }
-    
-    
-    
-    
+
+
+
+
     .dropdown-menu>li {
         padding: 4px 8px;
     }
@@ -2492,8 +2491,8 @@ label {
 }
 
 @media (min-width: 768px) and (max-width: 992px) {
-    
-    
+
+
 }
 
 .dropdown.no-arrow>a:after {
@@ -2501,9 +2500,9 @@ label {
 }
 
 
-@media (max-width: 767px) { 
-    
-    
+@media (max-width: 767px) {
+
+
 }
 
 /* =============================================================== */
@@ -9052,7 +9051,7 @@ table.checkboxtable th {
         padding-bottom: 40px;
         padding-top: 40px;
     }
-   
+
 }
 
 @media (max-width: 580px) {
@@ -9146,7 +9145,7 @@ table.checkboxtable th {
     html {
         min-width: 300px;
     }
-    
+
 }
 
 @media (max-width: 300px) {
@@ -9184,18 +9183,18 @@ table.checkboxtable th {
 
 
 @media (min-width: 768px) {
-   
-    
+
+
 }
 
 @media (max-width: 767px) {
-   
-    
+
+
 }
 
 @media (max-width: 767px) {
-    
-    
+
+
 }
 
 .demo-intro .intro-title {
